@@ -30,7 +30,7 @@ If you have Python installed, open terminal or Command Prompt in this folder and
 ```bash
 python -m http.server 3000
 ```
-Then open [http://localhost:3000](http://localhost:3000) in your browser.
+Then open [http://keen-speculoos-0bb8ce.netlify.app/) in your browser.
 
 ### Option 3: Using Node / NPX
 If you have Node.js installed:
@@ -127,3 +127,4 @@ D:\carbon footprint\
 ## 📜 Source Reference
 - Preserved from deployed instance: [http://keen-speculoos-0bb8ce.netlify.app/](http://keen-speculoos-0bb8ce.netlify.app/)
 - Platform: EcoTwin AI
+- web Main Link - http://keen-speculoos-0bb8ce.netlify.app/
